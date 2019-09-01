@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IndonesiaTouristDestination</string>
+    <string name="destinations_name">Nama Destinasi</string>
+    <string name="description">Deskripsi</string>
+    <string name="aboutme">About Me</string>
+    <string name="nama">Muhammad Fakhryan Zulfahmi</string>
+    <string name="email">fakhryanmuhammad@gmail.com</string>
+</resources>
